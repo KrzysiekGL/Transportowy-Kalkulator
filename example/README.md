@@ -1,4 +1,4 @@
-Example files with data a log file.
+Example files with data and the app log file.
 
 ---
 
